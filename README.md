@@ -19,7 +19,7 @@ Create branch 를 눌러 브랜치를 생성합니다.
 <img src="https://github.com/user-attachments/assets/2e64cc0c-e283-4878-a1a7-9e7c246570f1" width="600"/>
 
 ## Fork 된 저장소 확인 및 Branch 생성
-1. 본인 **Github ID/KUIT5_Android_week1** 형식으로 좌측상단에 뜨는 지 확인합니다.
+1. 본인 **Github ID/KUIT6_Android_week1** 형식으로 좌측상단에 뜨는 지 확인합니다.
 2. 아까처럼 **Branch** 를 생성하는데, 이번에는 본인 github 이름-week주차 형식으로 입력합니다.
    - ex) ikseong00/week1
    - Git Clone 한 다음에 브랜치 생성하셔도 됩니다! (이게 보통 권장되는 방식이에요.)

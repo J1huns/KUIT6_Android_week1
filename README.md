@@ -2,14 +2,14 @@
 # 저장소 Fork & Clone 하는 방법
 
 ## Branch 생성
-[원본 레포지토리](https://github.com/Konkuk-KUIT/KUIT5_week1) 에서 github 이름의 branch 를 입력합니다.
+[원본 레포지토리](https://github.com/Konkuk-KUIT/KUIT6_Android_week1) 에서 github 이름의 branch 를 입력합니다.
 Create branch 를 눌러 브랜치를 생성합니다.
 
 <img src="https://github.com/user-attachments/assets/4040ec09-c8eb-4f58-b557-2656d98c7b7e" width="600"/>
 
 
 ## 저장소 Fork
-1. [원본 레포지토리](https://github.com/Konkuk-KUIT/KUIT5_week1) 에서 **Fork** -> **Create a new fork** 를 클릭합니다.
+1. [원본 레포지토리](https://github.com/Konkuk-KUIT/KUIT6_Android_week1) 에서 **Fork** -> **Create a new fork** 를 클릭합니다.
 
 <img src="https://github.com/user-attachments/assets/a268affd-c3cc-45a3-a008-b3e50c8e8e4a" width="600"/>
 
